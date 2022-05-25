@@ -9,4 +9,6 @@ Rectangle controller designed for Melee
 
 2 x top player (optional, makes keycaps flush with top)
 
-Dimensions Length: 370.00mm Width: 160.00mm
+MEANT TO BE USED WITH 30AWG WIRE
+
+Dimensions Length: mm Width: 0mm
